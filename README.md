@@ -5,20 +5,20 @@
 
 ## Worksheet 1
 
-*Analysis* 
+**Analysis** 
 
 ## Worksheet 2 
 
-*Analysis* 
+**Analysis** 
 
 ## Worksheet 3
 
-*Analysis* 
+**Analysis** 
 
 ## Worksheet 4
 
-*Analysis* 
+**Analysis** 
 
 ## Worksheet 5
 
-*Analysis* 
+**Analysis** 
