@@ -11,6 +11,13 @@ This project utilizes historical bond yield data from multiple sources, with a f
 - **Date Range**: 01/02/2015 – 12/31/2024
 - **Purpose**: To analyze corporate bond yields by credit rating and evaluate credit spreads over time.
 
+  ### 2. U.S. Treasury Yield Curve Rates (Constant Maturity)
+- **Source**: U.S. Department of the Treasury via FRED
+- **Maturities**: 1M, 3M, 6M, 1Y, 2Y, 3Y, 5Y, 7Y, 10Y, 20Y, 30Y
+- **Frequency**: Daily
+- **Date Range**: 01/02/2015 – 12/31/2024
+- **Purpose**: To construct yield curves and analyze the shape, slope, and changes in risk-free rate expectations over time.
+
 
 ## Average Yield Curve
 
