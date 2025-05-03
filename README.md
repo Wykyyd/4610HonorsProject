@@ -8,20 +8,26 @@ This project utilizes historical bond yield data from multiple sources, with a f
 - **Source**: Federal Reserve Economic Data (FRED)
 - **Ratings Used**: AAA, AA, BBB, BB
 - **Frequency**: Daily
-- **Date Range**: 01/02/2015 – 1/02/2025
-- **Purpose**: To analyze corporate bond yields by credit rating and evaluate credit spreads over time.
+- **Date Range**: 01/02/2015 – 12/31/2024
 
-### 2. U.S. Treasury Yield Curve Rates 
-- **Source**: U.S. Department of the Treasury (FRED)
+### 2. U.S. Treasury Constant Maturity Yield Curve (via FRED)
+- **Source**: U.S. Department of the Treasury via FRED
 - **Maturities**: 1M, 3M, 6M, 1Y, 2Y, 3Y, 5Y, 7Y, 10Y, 20Y, 30Y
 - **Frequency**: Daily
-- **Date Range**: 01/02/2015 – 1/02/2025
-- **Purpose**: To construct yield curves and analyze the shape, slope, and changes in risk-free rate expectations over time.
+- **Date Range**: 01/02/2015 – 12/31/2024
 
-### 3. Combined Yield Dataset
-- Merged the corporate bond and Treasury datasets into unified tables to support side-by-side yield analysis and spread calculations.
-- Includes calculated fields such as yield spreads (e.g., BB–AAA, BB–10Y Treasury).
+### 3. 10-Year Treasury Yield (Single Maturity) – DGS10
+- **Source**: FRED (Series ID: DGS10)
+- **Description**: Market yield on U.S. Treasury securities at 10-Year constant maturity
+- **Frequency**: Daily
+- **Date Range**: 01/02/2015 – 12/31/2024
 
+### 4. Corporate Yields + 10Y Treasury Dataset (Merged in Power Query)
+- **Description**: Combined the Bank of America corporate bond yield data (AAA, AA, BBB, BB) with the 10-Year Treasury constant maturity yield (`DGS10`) using `Date` as the key
+- **Purpose**: Enabled credit spread analysis directly in Tableau by calculating differences such as:
+  - BB – AAA Yield
+  - BB – 10Y Treasury Yield
+- **Note**: Spread calculations were performed inside Tableau, not pre-processed in Power Query
 
 ## Average Yield Curve
 
