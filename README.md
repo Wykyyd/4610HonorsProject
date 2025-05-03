@@ -33,6 +33,7 @@ This project utilizes historical bond yield data from multiple sources, with a f
 ![Image](https://github.com/user-attachments/assets/3853d26a-799a-431c-9584-831b0942add6)
 
 **Analysis** 
+
 This chart shows the average U.S. Treasury yield curve from 01/01/2015 to 01/01/2025. The yield curve was calculated across all maturities ranging from 1 month to 30 years. The curve reflects interest rate expectations over time. 
 
 As expected, the curve is upwards sloping in the long-term. This means that investors demand higher yields for longer duration bonds. This curve provides a reference for future comparison of different coniditons in subsequent worksheets. 
