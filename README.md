@@ -55,6 +55,7 @@ As expected, the curve is upwards sloping in the long-term. This means that inve
 
 ## Credit Spreads by Rating at Key Dates
 ![Image](https://github.com/user-attachments/assets/b29155b2-4351-477d-810a-84d4ae254bca)
+
 **Analysis** 
 
 ## Dashboard
