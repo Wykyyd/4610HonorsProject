@@ -43,6 +43,10 @@ As expected, the curve is upwards sloping in the long-term. This means that inve
 
 **Analysis** 
 
+This chart compares the U.S. Treasury yield curve at four points in time. The selected times are the normal times (2016 post Global Financial Crisis), the COVID crash, the curve inversion peak, and recent highs. 
+
+
+
 ## 10 Year Treasury vs Corporate Bond Yields
 ![Image](https://github.com/user-attachments/assets/6f895310-7d75-4349-b3aa-a75d4c613d79)
 
@@ -60,6 +64,8 @@ As expected, the curve is upwards sloping in the long-term. This means that inve
 
 ## Dashboard
 ![Image](https://github.com/user-attachments/assets/7aa2623c-1770-42f2-a1ab-a3583266ba54)
+
+The dashboard aggregates all the aforementioned charts. This reflects a comprehensive view of U.S. Treasury yields and corporate bond yields from 01/01/2015 to 01/01/2025. These visualizations highlight the impact of monetary policy, market stress, and credit risk on bond yields. 
 
 ## Tableau Packaged Workbook
 
