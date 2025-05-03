@@ -38,7 +38,8 @@ This chart shows the average U.S. Treasury yield curve from 01/01/2015 to 01/01/
 
 As expected, the curve is upwards sloping in the long-term. This means that investors demand higher yields for longer duration bonds. This curve provides a reference for future comparison of different coniditons in subsequent worksheets. 
 
-## Worksheet 2 
+## Yield Curve at Key Dates
+![Image](https://github.com/user-attachments/assets/59f371d2-86a1-4f35-ae02-ef1eba49694f)
 
 **Analysis** 
 
