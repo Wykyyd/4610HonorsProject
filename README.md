@@ -30,7 +30,7 @@ This project utilizes historical bond yield data from multiple sources, with a f
 - **Note**: Spread calculations were performed inside Tableau, not pre-processed in Power Query
 
 ## Average Yield Curve
-
+![Image](https://github.com/user-attachments/assets/3853d26a-799a-431c-9584-831b0942add6)
 **Analysis** 
 
 ## Worksheet 2 
