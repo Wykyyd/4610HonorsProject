@@ -43,11 +43,13 @@ As expected, the curve is upwards sloping in the long-term. This means that inve
 
 **Analysis** 
 
-## Worksheet 3
+## 10 Year Treasury vs Corporate Bond Yields
+![Image](https://github.com/user-attachments/assets/6f895310-7d75-4349-b3aa-a75d4c613d79)
 
 **Analysis** 
 
-## Worksheet 4
+## Corporate Yield Spread Over 10 Year Treasury (2015-2025)
+![Image](https://github.com/user-attachments/assets/cc0a398e-6ce6-4601-8ea5-ab99c4dbaf33)
 
 **Analysis** 
 
